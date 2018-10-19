@@ -12,6 +12,7 @@
 * use of feedback
 * participation
 * review other people
+* likes
 
 ## Rules
 * fishing pond
