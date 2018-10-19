@@ -13,6 +13,7 @@
 * participation
 * review other people
 * likes
+* help other students
 
 ## Rules
 * fishing pond
@@ -32,3 +33,6 @@
 * collaboration
 * individual
 * course system
+
+## Feedback
+* statusbar
