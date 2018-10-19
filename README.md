@@ -6,19 +6,20 @@
 * e-mail sent
 * participation
 * cooperation
-* Installed apps
+* installed apps
 * questions
 * presentation
 * use of feedback
 * participation
-* reviewer
+* review other people
 
 ## Rules
-* Fishing pond
+* fishing pond
 
-## Drivers
+## Drivers/motivators
 * gatekeepers
 * next task
+* point for engagement
 
 ## System
 * DB
